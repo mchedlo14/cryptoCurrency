@@ -83,6 +83,15 @@
 @media(max-width:550px){
     .coin-data{
         flex-wrap: wrap;
+        justify-content: center;
+    }
+    .coin-row{
+        margin-top: 80px;
+        align-items: center;
+        height: auto;
+    }
+    .coin{
+        margin: auto;
     }
 }
 
